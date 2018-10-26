@@ -8,7 +8,7 @@ public class TriangleWords {
 
 	public static void main(String[] args) {
 
-		// 29 triangle numbers to account for words consisting of 16
+		// 29 triangle numbers to account for words consisting of 16 Zs
 		int[] numbers = createArray(29);
 
 		File file = new File("words.txt");
